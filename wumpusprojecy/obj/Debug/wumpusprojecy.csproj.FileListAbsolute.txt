@@ -1,0 +1,60 @@
+E:\games\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+E:\games\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+E:\games\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+E:\games\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+D:\kfueit\sem 4\AI\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
+D:\software\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+D:\software\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+D:\software\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+D:\software\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
+D:\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+D:\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+D:\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+D:\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
+D:\kfueit\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+D:\kfueit\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+D:\kfueit\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+D:\kfueit\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe.config
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.exe
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\bin\Debug\wumpusprojecy.pdb
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csprojAssemblyReference.cache
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Form1.resources
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.Properties.Resources.resources
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.GenerateResource.cache
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.csproj.CoreCompileInputs.cache
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.exe
+D:\kfueit\sem 4\wumpusprojecy\wumpusprojecy\obj\Debug\wumpusprojecy.pdb
